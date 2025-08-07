@@ -53,13 +53,8 @@ Briefly explain what the project is and why it was undertaken. For example: “T
 
 ---
 
-## 🧭 Insights & Key Findings
+## 🧭 Insights
 
-Summarize your analytical discoveries, e.g.:
-
-- “Highest correlation between columns X and Y (~0.85), suggesting...”
-- “Group ‘Category A’ shows a significantly higher median of numeric_col”
-- “Time‑series trend peaked in Q2 then declined,” etc.
 
 ---
 
