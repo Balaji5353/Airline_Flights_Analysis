@@ -2,7 +2,7 @@
 
 ## Project Link🔗
 
-[AirBnB Project Analysis](Airbnb_project_analysis.ipynb)
+[Airline Flights  Analysis](Airline_Flights_Analysis.ipynb)
 
 
 ---
