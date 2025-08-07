@@ -72,7 +72,7 @@ Briefly explain what the project is and why it was undertaken. For example: “T
 
 - 75th percentile: ₹42,521
 
-## 3. Flight Duration
+## 3. Flight Duration ⏰
 - Average duration: 12.22 hours (but ~0.83hr for direct, short-haul routes)
 
 - Min duration: 0.83hr (e.g., Bangalore ↔ Chennai by Indigo, direct flights)
