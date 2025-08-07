@@ -59,7 +59,7 @@ Briefly explain what the project is and why it was undertaken. For example: “T
 
 - Columns (Key): airline, flight, source_city, destination_city, departure/arrival times, stops, class, duration (in hours), days_left (until departure), price.
 
-## 2. Price Analysis
+## 2. Price Analysis 💸
 - Average price: ₹20,890
 
 - Price range: ₹1,105 (min) to ₹123,071 (max)
