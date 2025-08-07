@@ -1,5 +1,9 @@
 # 📊✈️ Airline Flights Analysis
 
+## Project Link🔗
+
+[AirBnB Project Analysis](Airbnb_project_analysis.ipynb)
+
 
 ---
 
