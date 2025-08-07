@@ -54,7 +54,58 @@ Briefly explain what the project is and why it was undertaken. For example: “T
 ---
 
 ## 🧭 Insights
+## 1. Dataset Overview
+- Rows: 300,153 flight records.
 
+- Columns (Key): airline, flight, source_city, destination_city, departure/arrival times, stops, class, duration (in hours), days_left (until departure), price.
+
+## 2. Price Analysis
+- Average price: ₹20,890
+
+- Price range: ₹1,105 (min) to ₹123,071 (max)
+
+- Price percentiles:
+
+- 25th percentile: ₹4,783
+
+- 50th percentile (Median): ₹7,425
+
+- 75th percentile: ₹42,521
+
+## 3. Flight Duration
+- Average duration: 12.22 hours (but ~0.83hr for direct, short-haul routes)
+
+- Min duration: 0.83hr (e.g., Bangalore ↔ Chennai by Indigo, direct flights)
+
+- Max duration: 49.83hr (likely multi-stop itineraries)
+
+## 4. Popular and Efficient Routes
+- Bangalore – Chennai (and vice versa) by Indigo (night, direct):
+
+- Consistent duration: 0.83hr
+
+- Economy fare drops over time (example: from ₹3,498 to under ₹1,604 as days_left increases).
+
+- Delhi – Mumbai (multiple airlines, direct):
+
+- Duration: ~2.2hr
+
+- Economy fares cluster around ₹5,950 when booked with 1 day left.
+
+- Chennai – Hyderabad (Vistara, Business):
+
+- Duration: 10–14hr (likely indirect), price >₹69,000 for last-minute, business class.
+
+## 5. Time and Price Dynamics
+- Advance booking trend:
+- For short-haul direct routes (e.g., Indigo, Bangalore ↔ Chennai), prices decrease sharply as days_left increases up to a point, but then stabilize.
+
+## 6. Class and Stop Insights
+- Economy fares: Affordable, peak competition among low-cost carriers.
+
+- Business fares: Steeply higher, with last-minute business tickets exceeding ₹80,000 on some long or multi-stop routes (e.g., Chennai–Hyderabad).
+
+- Stops: Direct flights have much shorter duration and cheaper fares. Multi-stop itineraries surge in both price and travel time
 
 ---
 
